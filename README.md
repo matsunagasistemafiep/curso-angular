@@ -12,3 +12,7 @@
 - Material Angular - https://material.angular.io/components
 - TailwindCSS - https://tailwindcss.com/
 
+## Escopo do minicurso
+- Desenvolver um sistema simples de cadastro de lista de contatos (nome e telefone), sem persistência de dados.
+- Realizar a listagem de contatos - demonstração das diretivas `*ngIf` e `*ngFor`.
+- Mostrar a comunicação entre componentes.
